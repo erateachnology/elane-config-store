@@ -8,3 +8,9 @@ spring:
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver
+server:
+  port: 9011
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka
